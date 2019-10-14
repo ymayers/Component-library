@@ -27,23 +27,23 @@ build out the UI pattern you chose to work with the API you chose.
 
 ### List of UI Patterns
 
-* Modal: When a user clicks on a link, a box should appear in the center of the
+* **Modal**: When a user clicks on a link, a box should appear in the center of the
     screen with the details for the item that the user clicks on. The box should
     have some way for the user to close the box and see the full list of items.
-* Hamburger Menu: There should be a hamburger icon in the top right corner. When
+* **Hamburger Menu**: There should be a hamburger icon in the top right corner. When
     a user clicks on it, a menu should appear from off of the right side of the
     screen with a list of menu items. When the user clicks on the menu item, the
     contents in the center of the page should change to show the details for
     that item. The user should be able to see which item is currently selected.
     The user should be able to close the menu by clicking the hamburger menu
     again.
-* Accordion: The user should see a list of items. When they click on one, the
+* **Accordion**: The user should see a list of items. When they click on one, the
     space below the item expands to reveal the content related to that item.
     When the user clicks on the item again, the revealed content becomes hidden.
-* Tabs: The user sees a row of tabs above a content area. When the user clicks
+* **Tabs**: The user sees a row of tabs above a content area. When the user clicks
     on one of the tabs, the content in the content area changes based on which
     tab the user clicked.
-* Slider: The user should see the content on the screen with 'Next' and
+* **Slider**: The user should see the content on the screen with 'Next' and
     'Previous' buttons. When they click on the 'Next' button, the slider should
     shift to show the next item in the list. When the user clicks on the
     'Previous' button, the slider should shift to show the previous items in the
