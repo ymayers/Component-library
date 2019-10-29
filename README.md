@@ -9,6 +9,7 @@ crucial part of building applications with React. So, let's build one!
 
 - React and Components
 - Storybook
+- Adobe XD
 
 ## Instructions
 
@@ -18,6 +19,9 @@ crucial part of building applications with React. So, let's build one!
 
 Please turn in your submission by the deadline on your cohort calendar by
 submitting a new issue on this repository.
+
+If you haven't done so already,
+[download Adobe XD](https://www.adobe.com/products/xd.html).
 
 ## Requirements
 
