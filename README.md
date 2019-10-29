@@ -1,16 +1,14 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# UI Element Project
+# Component Library
 
-This project is going to challenge you to combine your programming skills in
-JavaScript with your skills building out user interfaces with HTML and CSS.
+Component Libraries are one of the huge advantages of working with React and a
+crucial part of building applications with React. So, let's build one!
 
 ## Prerequisites
 
-- HTML and CSS
-- CSS Layout
-- Programming with JavaScript
-- Working with the DOM
+- React and Components
+- Storybook
 
 ## Instructions
 
@@ -18,77 +16,32 @@ JavaScript with your skills building out user interfaces with HTML and CSS.
 1. Clone down the repository and complete your work in there.
 1. Fulfill the listed requirements below.
 
-Please turn in your submission by the deadline on your cohort calendar.
-
-## UI Pattern
-
-You will need to pick a UI pattern from the list below and an API. You'll then
-build out the UI pattern you chose to work with the API you chose.
-
-### List of UI Patterns
-
-* **Modal**: When a user clicks on a link, a box should appear in the center of the
-    screen with the details for the item that the user clicks on. The box should
-    have some way for the user to close the box and see the full list of items.
-* **Hamburger Menu**: There should be a hamburger icon in the top right corner. When
-    a user clicks on it, a menu should appear from off of the right side of the
-    screen with a list of menu items. When the user clicks on the menu item, the
-    contents in the center of the page should change to show the details for
-    that item. The user should be able to see which item is currently selected.
-    The user should be able to close the menu by clicking the hamburger menu
-    again.
-* **Accordion**: The user should see a list of items. When they click on one, the
-    space below the item expands to reveal the content related to that item.
-    When the user clicks on the item again, the revealed content becomes hidden.
-* **Tabs**: The user sees a row of tabs above a content area. When the user clicks
-    on one of the tabs, the content in the content area changes based on which
-    tab the user clicked.
-* **Slider**: The user should see the content on the screen with 'Next' and
-    'Previous' buttons. When they click on the 'Next' button, the slider should
-    shift to show the next item in the list. When the user clicks on the
-    'Previous' button, the slider should shift to show the previous items in the
-    list. If there is no next or previous items, the slider could loop to the
-    other end of the list or prevent the user from clicking those buttons.
-
-### List of APIs
-
-This is a non-exhaustive list:
-
-1. Marvel: developer.marvel.com
-1. Star Wars: swapi.co
-1. Weather: openweathermap.org/api
-1. News: newsapi.org
-1. Giphy: developers.giphy.com
-1. Pokemon: http://pokeapi.co
-1. Google Books: developers.google.com/books
-1. City of Chicago: data.cityofchicago.org
-1. Beer: brewerydb.com/developers
-1. Chuck Norris: http://www.icndb.com
-1. Rick and Morty: rickandmortyapi.com/documentation/#rest
-1. Dad Jokes: icanhazdadjoke.com/api
-1. NASA: api.nasa.gov
-
-There is also [this collection of public APIs](https://github.com/public-apis/public-apis).
+Please turn in your submission by the deadline on your cohort calendar by
+submitting a new issue on this repository.
 
 ## Requirements
 
-Each student should pick one UI Pattern and one API and combine the two. The
-data to populate the UI Pattern should come from the API. When the user loads
-the page, they should see the data from the API load into the UI pattern on the
-screen.
+You should build out a component library using React and Storybook. Your
+component library should be deployed tto GitHub Pages, Netlify, or Surge and
+published to the NPM Package registry.
+
+Your component library should include all of the components in this Adobe XD
+mock-up:
+
+[![Adobe Mockup](https://miro.medium.com/max/3840/1*UYABX3bGRV_ytnAio2ElNw.jpeg)](https://drive.google.com/drive/folders/1d89lhVfRE-WTTkVmZ27xcuCBWT0KSBKA?usp=sharing)
 
 ### Technical Requirements
 
 Your project should meet the following requirements:
 
 - Runs without errors
-- Shows the UI pattern you selected populated with data from the API you selected
-- Functions according to the descriptions above. The user should be able to
-    interact with your UI.
+- Include the required components in the Adobe XD Mock-up
+- Be deployed to GitHub Pages, Netlify, or Surge
+- Be published to the NPM Package Registry
 - Includes a README written in well formatted Markdown (_hint: look up a README
-    template_)
+  template_)
 - Shows a good commit history with frequent commits. We're looking for lots of
-    small commits.
+  small commits.
 
 ## [License](LICENSE)
 

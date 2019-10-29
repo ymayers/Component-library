@@ -1,5 +1,7 @@
-Comfort score (from 1 to 5): /5
+Link to project repository:
 
-Completeness score (from 1 to 5): /5
+Link to deployed component library:
 
-Questions? Comments? Add them here:
+Link to publishhed library (on NPM):
+
+Questions? Comments? Specific things you'd like feedback on? Add them here:
