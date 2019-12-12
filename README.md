@@ -29,10 +29,8 @@ You should build out a component library using React and Storybook. Your
 component library should be deployed tto GitHub Pages, Netlify, or Surge and
 published to the NPM Package registry.
 
-Your component library should include all of the components in this Adobe XD
-mock-up:
-
-[![Adobe Mockup](https://miro.medium.com/max/3840/1*UYABX3bGRV_ytnAio2ElNw.jpeg)](https://drive.google.com/drive/folders/1d89lhVfRE-WTTkVmZ27xcuCBWT0KSBKA?usp=sharing)
+Your component library should include all of the components [in this Adobe XD
+mock-up](https://drive.google.com/drive/folders/1d89lhVfRE-WTTkVmZ27xcuCBWT0KSBKA?usp=sharing).
 
 ### Technical Requirements
 
