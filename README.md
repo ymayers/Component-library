@@ -30,7 +30,7 @@ component library should be deployed tto GitHub Pages, Netlify, or Surge and
 published to the NPM Package registry.
 
 Your component library should include all of the components in bouncer.xd mockqup [from this Adobe XD
-mock-up](https://drive.google.com/drive/folders/1d89lhVfRE-WTTkVmZ27xcuCBWT0KSBKA?usp=sharing).
+mock-up folder](https://drive.google.com/drive/folders/1d89lhVfRE-WTTkVmZ27xcuCBWT0KSBKA?usp=sharing).
 
 ### Technical Requirements
 
