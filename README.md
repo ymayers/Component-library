@@ -29,7 +29,7 @@ You should build out a component library using React and Storybook. Your
 component library should be deployed tto GitHub Pages, Netlify, or Surge and
 published to the NPM Package registry.
 
-Your component library should include all of the components in bouncer [in this Adobe XD
+Your component library should include all of the components in bouncer.xd mockqup [from this Adobe XD
 mock-up](https://drive.google.com/drive/folders/1d89lhVfRE-WTTkVmZ27xcuCBWT0KSBKA?usp=sharing).
 
 ### Technical Requirements
