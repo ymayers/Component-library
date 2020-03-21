@@ -1,0 +1,118 @@
+button {
+  border-radius: 2px;
+  padding: 5px 25px;
+  border: 0.5px;
+  font-size: 14px;
+  height: 46px;
+  width: 150px;
+}
+
+.style:hover {
+  cursor: pointer;
+}
+.style {
+  cursor: pointer;
+  background-color: #0069d9;
+  color: white;
+  border: #0069d9;
+}
+.styleframe {
+  color: #0069d9;
+  border: solid #0069d9;
+}
+.fade {
+  background-color: #0069d91a;
+  color: #0069d9;
+  border: #0069d91a;
+}
+
+.dangerstyle:hover {
+  cursor: pointer;
+}
+.dangerstyle {
+  background-color: #db3544;
+  color: white;
+  border: #db3544;
+  font-size: 14px;
+}
+
+.dangerframe {
+  color: #db3544;
+  background-color: white;
+  border: solid #db3544;
+  font-size: 14px;
+}
+.dangerfade {
+  color: #db3544;
+  background-color: #ff48581a;
+  border: #ff48581a;
+  font-size: 14px;
+}
+
+.success:hover {
+  cursor: pointer;
+}
+.success {
+  cursor: pointer;
+  background-color: #28a744;
+  color: white;
+  border: #28a744;
+}
+.successframe {
+  color: #28a744;
+  border: solid #28a744;
+}
+.successfade {
+  background-color: #28a7441a;
+  color: #28a744;
+  border: #28a7441a;
+}
+
+.warning:hover {
+  cursor: pointer;
+  background-color: #ebb600;
+}
+.warning {
+  cursor: pointer;
+  background-color: #ffc600;
+  color: white;
+  border: #ffc600;
+}
+.warningframe {
+  color: #ffc600;
+  border: solid #ffc600;
+}
+.warningfade {
+  background-color: #ffc6001a;
+  color: #ffc600;
+  border: #ffc6001a;
+}
+
+.default:hover {
+  cursor: pointer;
+}
+.default {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border: black;
+}
+.defaultframe {
+  color: black;
+  border: solid black;
+}
+.defaultfade {
+  background-color: #f6f7f8;
+  color: black;
+  border: #f6f7f8;
+}
+.large {
+  height: 60px;
+  width: 171px;
+  font-size: 16px;
+}
+
+.cart1 {
+  background-color: #0069d91a;
+  color: #0069d9;
+}
