@@ -1,7 +1,7 @@
 import React from "react";
 import { storiesOf } from "@storybook/react";
 import Button from "./Button";
-import Cart from "./cart_2.png";
+// import Cart from "./Pictures/cart_2.png";
 
 storiesOf("Button", module)
   .add("Primary1", () => <Button label="Primary" type="style " />)
@@ -33,9 +33,9 @@ storiesOf("Button", module)
   .add("Default3", () => <Button label="Default" type="defaultframe" />)
   .add("Default4", () => <Button label="Default" type="default large" />)
   .add("Default5", () => <Button label="Default" type="defaultfade large" />)
-  .add("Default6", () => <Button label="Default" type="defaultframe large" />)
-  .add("Cart1", () => (
-    <Button icon="Cart" label="Add To Cart" type="cart1 ">
-      icon
-    </Button>
-  ));
+  .add("Default6", () => <Button label="Default" type="defaultframe large" />);
+// .add("Cart1", () => (
+//   <Button icon={Cart} label="Add To Cart" type="cart1 ">
+//     icon
+//   </Button>
+// ));
